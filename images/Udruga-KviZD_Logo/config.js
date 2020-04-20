@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"KviZD","author":"","fileName":"Udruga-KviZD_Logo.pdf","bounds":[[1286,909]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
